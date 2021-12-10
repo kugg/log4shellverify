@@ -1,0 +1,2 @@
+# log4shellverify
+aa
