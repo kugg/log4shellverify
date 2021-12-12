@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: com.mycompany.app.AppTest
+Test set: com.mkyong.HelloWorldTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.022 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.617 sec
